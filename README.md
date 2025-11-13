@@ -15,4 +15,4 @@
 https://public.tableau.com/app/profile/valeriya.grosheva/viz/Dashboard_sales_17630652791740/Dashboard
 
 ## Превью дашборда
-xxx
+![dashboard Preview](./dashboard_preview.png)
